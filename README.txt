@@ -1,0 +1,1 @@
+Um dos desafios propostos por Gustavo Guanabara no curso de HTML e CSS do canal no Youtube do CursoemVideo. Fiz todos eles, este aqui por lembrar a montagem de um quebra-cabeça achei bem legal de estar postando no Github e colorindo meu singelo espaço na plataforma. 
